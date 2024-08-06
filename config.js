@@ -8,7 +8,7 @@ global.video= "True" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
 global.email ="chukwuemekapraise357@gmail.com "
-global.location="awka,Nigeria."
+global.location="anambra,Nigeria."
 
 
 global.mongodb= process.env.MONGODB_URI || ""
